@@ -1,0 +1,6 @@
+logs.txt
+*.env
+*.toml
+mykeys.txt
+.Dockerfile
+.dockerignore
