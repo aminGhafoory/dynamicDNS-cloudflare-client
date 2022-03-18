@@ -1,0 +1,4 @@
+apiKey = "your_api_key"
+zoneID = "your_domain_zone_id"
+domainName = "your_domain_name"
+recordID = "your_domain_record_id"
