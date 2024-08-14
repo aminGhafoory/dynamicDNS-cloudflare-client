@@ -1,5 +1,5 @@
 # dynamicDNS-cloudflare-client
-
+![banner](https://raw.githubusercontent.com/aminGhafoory/dynamicDNS-cloudflare-client/main/DDNS%20cover.png)
 with this client you can make your own private Dynamic DNS server; just like [DuckDNS.org](https://DuckDNS.org) 
 
 this service is crucial if you want to make a homeLab and your ISP does Not provid a static IP address
